@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- Adzan XML Dump
+- Generation Time: April 13, 2021 at 01:00:56 AM
+-->
+<adzan>
+  <version>3.0.0</version>
+  <author>cahya dsn</author>
+  <email>cahyadsn@yahoo.com</email>
+  <site>www.cdsatrian.com</site>
+  <version>3.0.0</version>
+  <country>indonesia</country>
+  <city>padang</city>
+   <parameter>
+    <longitude>100&#0176;27&#0180; BT</longitude>
+    <latitude>0&#0176;56&#0180; LS </latitude>
+    <direction>293.8 &#0176; ke Mekah</direction>
+    <distance>6948.38 km ke Mekah</distance>
+  </parameter>
+  <data>
+    <year>2021</year>
+    <month>04</month>
+    <date>13</date>
+    <imsyak>04:49:34</imsyak>
+    <fajr>04:59:34</fajr>
+    <syuruq>06:13:11</syuruq>
+    <dzuhr>12:21:03</dzuhr>
+    <ashr>15:34:00</ashr>
+    <maghrib>18:24:56</maghrib>
+    <isha>19:34:29</isha>
+  </data>
+</adzan>
